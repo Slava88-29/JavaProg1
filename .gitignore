@@ -31,3 +31,4 @@ bin/
 ### Ignore Doc ###
 .idea/
 *iml
+out/
